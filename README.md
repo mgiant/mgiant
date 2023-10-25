@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/5c9d9de5-1578-4ce9-8610-7f509ecf5467.svg)](https://wakatime.com/@5c9d9de5-1578-4ce9-8610-7f509ecf5467)
+
 <!--
 **mgiant/mgiant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
